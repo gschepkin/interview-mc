@@ -1,0 +1,21 @@
+object Versions {
+  val scala = "3.4.2"
+
+  val cats              = "2.12.0"
+  val catsEffect        = "3.5.4"
+  val fs2               = "3.10.2"
+  val fs2Compress       = "2.2.1"
+  val circe             = "0.14.1"
+  val sttp              = "4.0.0-M16"
+  val slf4j             = "2.0.5"
+  val log4j             = "2.19.0"
+  val log4cats          = "2.5.0"
+  val tapir             = "1.4.0"
+  val http4s            = "0.23.27"
+  val asyncApi          = "0.3.2"
+  val kindProjector     = "0.13.2"
+  val pureconfig        = "0.17.7"
+  val tofu              = "0.13.6"
+  val logback           = "1.5.12"
+  val tofuLogging       = "0.13.6"
+}
